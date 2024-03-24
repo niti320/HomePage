@@ -2,7 +2,7 @@ function toggleSearchBar() {
     var searchBar = document.getElementById("searchBar");
     if (searchBar.style.width === "0px" || searchBar.style.width === "") {
         searchBar.style.padding = "5px 10px ";
-        searchBar.style.width = "140px";
+        searchBar.style.width = "120px";
     } else {
         searchBar.style.width = "0px";
         searchBar.style.padding = "5px 0px";
