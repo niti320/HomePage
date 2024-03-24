@@ -698,3 +698,8 @@
 		justify-content: space-evenly;
 	}
 	}
+@media(max-width:400px){
+		ul{
+			margin-right: -80px;
+		}
+	}
